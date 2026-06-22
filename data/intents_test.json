@@ -1,0 +1,76 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "input": "hi , how are you doing ? i am getting ready to do some cheetah chasing to stay in shape .",
+      "output": "you must be very fast . hunting is one of my favorite hobbies .",
+      "category": "you must be very fast . hunting is one of my favorite hobbies ."
+    },
+    {
+      "id": 2,
+      "input": "i am ! for my hobby i like to do canning or some whittling .",
+      "output": "i also remodel homes when i am not out bow hunting .",
+      "category": "i also remodel homes when i am not out bow hunting ."
+    },
+    {
+      "id": 3,
+      "input": "that is neat . when i was in high school i placed 6th in 100m dash !",
+      "output": "that is awesome . do you have a favorite season or time of year ?",
+      "category": "that is awesome . do you have a favorite season or time of year ?"
+    },
+    {
+      "id": 4,
+      "input": "i do not . but i do have a favorite meat since that is all i eat exclusively .",
+      "output": "what is your favorite meat to eat ?",
+      "category": "what is your favorite meat to eat ?"
+    },
+    {
+      "id": 5,
+      "input": "i would have to say its prime rib . do you have any favorite foods ?",
+      "output": "i like chicken or macaroni and cheese .",
+      "category": "i like chicken or macaroni and cheese ."
+    },
+    {
+      "id": 6,
+      "input": "do you have anything planned for today ? i think i am going to do some canning .",
+      "output": "i am going to watch football . what are you canning ?",
+      "category": "i am going to watch football . what are you canning ?"
+    },
+    {
+      "id": 7,
+      "input": "i think i will can some jam . do you also play footfall for fun ?",
+      "output": "if i have time outside of hunting and remodeling homes . which is not much !",
+      "category": "if i have time outside of hunting and remodeling homes . which is not much !"
+    },
+    {
+      "id": 8,
+      "input": "hi , how are you doing today ?",
+      "output": "i am spending time with my 4 sisters what are you up to",
+      "category": "i am spending time with my 4 sisters what are you up to"
+    },
+    {
+      "id": 9,
+      "input": "wow , four sisters . just watching game of thrones .",
+      "output": "that is a good show i watch that while drinking iced tea",
+      "category": "that is a good show i watch that while drinking iced tea"
+    },
+    {
+      "id": 10,
+      "input": "i agree . what do you do for a living ?",
+      "output": "i am a researcher i am researching the fact that mermaids are real",
+      "category": "i am a researcher i am researching the fact that mermaids are real"
+    },
+    {
+      "id": 11,
+      "input": "interesting . i am a website designer . pretty much spend all my time on the computer .",
+      "output": "that is cool my mom does the same thing",
+      "category": "that is cool my mom does the same thing"
+    },
+    {
+      "id": 12,
+      "input": "that is awesome . i have always had a love for technology .",
+      "output": "tell me more about yourself",
+      "category": "tell me more about yourself"
+    }
+  ]
+}
